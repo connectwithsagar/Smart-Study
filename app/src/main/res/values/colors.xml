@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary - Premium Indigo -->
+    <color name="primary">#6366F1</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#E0E7FF</color>
+    <color name="onPrimaryContainer">#1E1B4B</color>
+
+    <!-- Secondary - Vibrant Violet -->
+    <color name="secondary">#8B5CF6</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#EDE9FE</color>
+    <color name="onSecondaryContainer">#2E1065</color>
+
+    <!-- Tertiary - Soft Teal -->
+    <color name="tertiary">#14B8A6</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#CCFBF1</color>
+    <color name="onTertiaryContainer">#134E4A</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#F8FAFC</color>
+    <color name="onBackground">#0F172A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#0F172A</color>
+    <color name="surfaceVariant">#F1F5F9</color>
+    <color name="onSurfaceVariant">#475569</color>
+
+    <!-- Misc -->
+    <color name="error">#EF4444</color>
+    <color name="outline">#CBD5E1</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- Core Brand -->
+    <color name="brand_indigo">#6366F1</color>
+    <color name="brand_violet">#8B5CF6</color>
+    <color name="brand_aquamarine">#10B981</color>
+    
+    <!-- Surfaces (Glassmorphic Base) -->
+    <color name="glass_white">#F8FAFC</color>
+    <color name="glass_border">#E2E8F0</color>
+    
+    <!-- AI Status Colors -->
+    <color name="ai_pulse">#A5B4FC</color>
+    <color name="success_glow">#34D399</color>
+    <color name="error_glow">#F87171</color>
+</resources>

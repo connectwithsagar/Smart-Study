@@ -1,5 +1,6 @@
 package com.example.smartstudy.ai
 
+import com.example.smartstudy.BuildConfig
 import com.google.ai.client.generativeai.GenerativeModel
 import com.google.ai.client.generativeai.type.content
 import kotlinx.coroutines.Dispatchers
@@ -8,7 +9,7 @@ import org.json.JSONObject
 
 object GeminiBrain {
 
-    private const val API_KEY = "AIzaSyCEM-dRZ3Yua4T6GliDrJFRzBpxT5rl-Y8"
+    private const val API_KEY = BuildConfig.GEMINI_API_KEY
     
     private val model = GenerativeModel(
         modelName = "gemini-1.5-flash",
